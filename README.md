@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **alexislopezdev/alexislopezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+¡Hola!👋👋 Soy Alexis de Buenos Aires. desarrollador de software autodidacta.
+
+Me gusta programar, la tecnología y los negocios .
+
+¡Aquí encontrarás  mis proyectos , para que puedas echarles un vistazo a mi trabajo!
+
+Actualmente estoy aprendiendo desarrollo Full Stack y trabajando en mi página web personal.
+
+Amo JavaScript y React.js  
