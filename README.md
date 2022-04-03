@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ¡Hola!👋👋 Soy Alexis de Buenos Aires. desarrollador de software autodidacta.
 
-Me gusta programar, la tecnología y los negocios .
+Me gusta programar, la tecnología y los negocios 💻 .
 
 ¡Aquí encontrarás  mis proyectos , para que puedas echarles un vistazo a mi trabajo!
 
 Actualmente estoy aprendiendo desarrollo Full Stack y trabajando en mi página web personal.
 
-Amo JavaScript y React.js  
+Amante de JavaScript y React.js ❤️
