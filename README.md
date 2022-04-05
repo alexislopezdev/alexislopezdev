@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Me gusta programar, la tecnología y los negocios 💻 .
 
-¡Aquí encontrarás  mis proyectos , para que puedas echarles un vistazo a mi trabajo!
+¡Aquí encontrarás  mis proyectos , para que puedas echarle un vistazo a mi trabajo!
 
 Actualmente estoy aprendiendo desarrollo Full Stack y trabajando en mi página web personal.
 
