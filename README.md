@@ -21,6 +21,6 @@ Me gusta programar, la tecnología y los negocios 💻 .
 
 ¡Aquí encontrarás  mis proyectos , para que puedas echarle un vistazo a mi trabajo!
 
-Actualmente estoy aprendiendo desarrollo Full Stack y trabajando en mi página web personal.
+Actualmente estoy aprendiendo Next JS y trabajando constantemente para ser un mejor profesional.
 
 Amante de JavaScript y React.js ❤️
